@@ -61,6 +61,8 @@ and severity.
 The third page translates the analytical findings into potential
 response strategies.
 
+### Key question
+
 > **What can be done about the problem (short, medium and long-term)**
 
 ![Recommendations Dashboard](images/recommendations.png)
@@ -96,7 +98,7 @@ activities, agriculture, or other forms of human exposure.
 
 ------------------------------------------------------------------------
 
-## Important context
+# Important context
 
 These findings describe the available samples and do not establish conditions in every Ghanaian water source, 
 prove that mining caused a particular measurement, estimate population exposure, or diagnose health outcomes. 

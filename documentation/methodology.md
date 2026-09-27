@@ -1,19 +1,7 @@
-# Ghana's Rivers in Crisis --- Galamsey Pollution Dashboard
+# Methodology & Technical Documentation
+## Ghana's Rivers in Crisis — Galamsey Pollution Dashboard
 
-> **Power BI \| Environmental & Public Health Analytics \| Ghana**
-
-An interactive Power BI dashboard examining water-quality contamination
-across sampled rivers in Ghana and highlighting potential public-health
-and environmental concerns associated with galamsey (small-scale
-mining).
-
-The project uses water-quality measurements for **11 sampled rivers**,
-alongside a separate **Galamsey Pit** sample, and compares contaminant
-levels against the **Ghana Standard** used in the analysis.
-
-------------------------------------------------------------------------
-
-## 📌 Project Overview
+## Project Overview
 
 Galamsey and other mining activities can affect water resources through
 the introduction of metals and changes in water chemistry. This project
@@ -29,7 +17,7 @@ is it? → What can be done?**
 
 ------------------------------------------------------------------------
 
-## 🎯 Objectives
+##  Objectives
 
 -   Identify sampled rivers with contaminant levels above the applicable
     Ghana Standard limits.
@@ -46,7 +34,7 @@ is it? → What can be done?**
 
 ------------------------------------------------------------------------
 
-## 📊 Dataset
+##  Dataset
 
 ### Data Source
 
@@ -147,7 +135,7 @@ pH is assessed against the recommended range of **6.5--8.5**.
 
 ------------------------------------------------------------------------
 
-# 📊 Dashboard
+#  Dashboard
 
 The dashboard contains **three pages**.
 
@@ -229,7 +217,7 @@ Recommendations are organized by:
 
 ------------------------------------------------------------------------
 
-# 🔎 Key Findings
+#  Key Findings
 
 ### Lead exceeded safety levels in every river sampled
 
@@ -300,7 +288,7 @@ of approximately **3.21**.
 
 ------------------------------------------------------------------------
 
-# 🧮 Power BI / DAX
+#  Power BI / DAX
 
 The dashboard was developed using Power BI and DAX measures for:
 
@@ -317,7 +305,7 @@ The dashboard was developed using Power BI and DAX measures for:
 
 ------------------------------------------------------------------------
 
-# 🌍 Public Health Relevance
+#  Public Health Relevance
 
 Water contamination can have implications for population health when
 contaminated water is used for drinking, food preparation, household
@@ -340,7 +328,7 @@ relationships between specific river samples and health outcomes.
 
 ------------------------------------------------------------------------
 
-# 💡 Why This Project Matters to Public Health Informatics
+#  Why This Project Matters to Public Health Informatics
 
 **Environmental Data + Public Health + Data Analytics + Information
 Visualization**
@@ -357,7 +345,7 @@ The workflow demonstrates how a public-health data professional can:
 
 ------------------------------------------------------------------------
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 -   **Power BI** --- data modeling, DAX calculations and dashboard
     development
@@ -366,58 +354,20 @@ The workflow demonstrates how a public-health data professional can:
 -   **Data Visualization** --- geographic, comparative and
     indicator-based visualizations
 
-------------------------------------------------------------------------
-
-# 📁 Repository Structure
-
-``` text
-ghana-rivers-in-crisis/
-│
-├── README.md
-│
-├── dashboard/
-│   └── Ghana_River_Watch.pbix
-│
-├── data/
-│   └── README.md
-│
-├── images/
-│   ├── rivers-overview.png
-│   ├── contaminants-breakdown.png
-│   └── recommendations.png
-│
-├── video/
-│   └── README.md
-│
-└── documentation/
-    └── methodology.md
-```
-
-If the original dataset cannot be redistributed, do not upload it to
-GitHub. Keep only documentation describing the source and variables.
 
 ------------------------------------------------------------------------
 
-# 🎥 Project Walkthrough
+#  Project Walkthrough
 
 A short walkthrough video demonstrates the dashboard's three pages and
 explains the main findings.
 
 **Project walkthrough:**\
-[Watch the dashboard walkthrough](YOUR_VIDEO_LINK_HERE)
-
-Recommended video contents:
-
-1.  Brief project introduction
-2.  Rivers Overview
-3.  Contaminants Breakdown
-4.  Key findings
-5.  Recommendations page
-6.  Short closing summary
+[Watch the dashboard walkthrough](https://youtu.be/UVdXCxq_nrg)
 
 ------------------------------------------------------------------------
 
-# ⚠️ Limitations
+#  Limitations
 
 -   The analysis is based on the available sampled measurements and
     should not automatically be interpreted as representing every river
@@ -438,7 +388,7 @@ Recommended video contents:
 
 ------------------------------------------------------------------------
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 -   Add more sampling locations and sampling periods.
 -   Incorporate historical data to identify trends over time.
@@ -454,7 +404,7 @@ Recommended video contents:
 
 ------------------------------------------------------------------------
 
-# 📌 Key Takeaway
+#  Key Takeaway
 
 The analysis identifies widespread contaminant and pH exceedances across
 the sampled rivers, with particularly notable patterns involving **Lead,
@@ -466,33 +416,6 @@ The project demonstrates a complete analytical workflow:
 > **Data → Standards → Exceedance Analysis → Visualization → Public
 > Health Interpretation → Recommendations**
 
-------------------------------------------------------------------------
-
-# 👤 About the Author
-
-**Kofi Sarpong, PharmD**
-
-**Pharmacist \| Data Scientist \| Health Informatics & Public Health
-Analytics**
-
-I am a pharmacist with training and experience in data analytics and
-data science, with an interest in applying technology and data to
-healthcare, public health and health informatics.
-
-### Areas of interest
-
--   Health Informatics
--   Public Health Analytics
--   Healthcare Data Science
--   Environmental Health Data
--   Digital Health
--   AI for Healthcare
-
-### Connect
-
--   **LinkedIn:** [Add LinkedIn Profile](YOUR_LINKEDIN_URL)
--   **GitHub:** [Add GitHub Profile](YOUR_GITHUB_URL)
--   **Email:** [Add Email](YOUR_EMAIL)
 
 ------------------------------------------------------------------------
 

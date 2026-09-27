@@ -158,8 +158,6 @@ picture.
 > **Where is the problem, and what is the overall scale and severity of
 > contamination?**
 
-![Rivers Overview Dashboard](images/rivers-overview.png)
-
 ------------------------------------------------------------------------
 
 ## 2. Contaminants Breakdown
@@ -191,8 +189,6 @@ and severity.
   drinking water?                     
   -----------------------------------------------------------------------
 
-![Contaminants Breakdown Dashboard](images/contaminants-breakdown.png)
-
 ------------------------------------------------------------------------
 
 ## 3. Recommendations
@@ -212,8 +208,6 @@ Recommendations are organized by:
 4.  Environmental Assessment
 5.  Mining Practices & Technology
 6.  Monitoring
-
-![Recommendations Dashboard](images/recommendations.png)
 
 ------------------------------------------------------------------------
 
@@ -415,7 +409,6 @@ The project demonstrates a complete analytical workflow:
 
 > **Data → Standards → Exceedance Analysis → Visualization → Public
 > Health Interpretation → Recommendations**
-
 
 ------------------------------------------------------------------------
 

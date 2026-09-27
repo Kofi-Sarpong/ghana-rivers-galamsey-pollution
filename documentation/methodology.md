@@ -69,7 +69,7 @@ Pb**, together with **pH**.
 
 ------------------------------------------------------------------------
 
-## 📐 Analytical Methodology
+##  Analytical Methodology
 
 ### Ghana Standard as the Primary Benchmark
 
@@ -266,7 +266,7 @@ of approximately **3.21**.
 
 ------------------------------------------------------------------------
 
-# 📈 Exceedance Summary
+#  Exceedance Summary
 
   Sample           Arsenic   Cadmium   Chromium     Lead
   -------------- --------- --------- ---------- --------

@@ -375,7 +375,7 @@ A short walkthrough video demonstrates the dashboard's three pages and
 explains the main findings.
 
 **Project walkthrough:**\
-[Watch the dashboard walkthrough](YOUR_VIDEO_LINK_HERE)
+[Watch the dashboard walkthrough](https://youtu.be/UVdXCxq_nrg)
 
 Recommended video contents:
 

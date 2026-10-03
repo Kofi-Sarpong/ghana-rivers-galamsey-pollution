@@ -10,11 +10,6 @@ and compares contaminant levels against the **Ghana Standard**.
 
 ##  Project Overview
 
-This project analyzes available water-quality measurements to identify where sampled
-rivers exceed selected safety limits, determine the severity and
-distribution of contaminant exceedances, and translate the findings into
-potential response strategies.
-
 - **Purpose:** Explore where sampled water exceeds selected standards,
 which contaminants contribute to exceedances, and potential response areas.
 - **Data:** Open Data Bank Ghana; 11 river samples plus one mining-site sample.
